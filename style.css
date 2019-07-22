@@ -1,0 +1,40 @@
+body {
+  font-family: Verdana;
+}
+h1 {
+  color: darkorange;
+  text-align: left;
+  margin-left: 40px;
+}
+
+.tile {
+  border-radius: 10%;
+  text-align: center;
+  width: 150px;
+  height: 150px;
+  background-color: skyblue;
+  margin-bottom: 10px;
+  margin-right: 5px;
+  font-size: 700%;
+}
+
+.tile:hover {
+  background-color: darkorange;
+}
+
+#tile_0 {position: absolute; top: 80px; left: 40px;}
+#tile_1 {position: absolute; top: 80px; left: 210px;}
+#tile_2 {position: absolute; top: 80px; left: 380px;}
+#tile_3 {position: absolute; top: 80px; left: 550px;}
+#tile_4 {position: absolute; top: 250px; left: 40px;}
+#tile_5 {position: absolute; top: 250px; left: 210px;}
+#tile_6 {position: absolute; top: 250px; left: 380px;}
+#tile_7 {position: absolute; top: 250px; left: 550px;}
+#tile_8 {position: absolute; top: 420px; left: 40px;}
+#tile_9 {position: absolute; top: 420px; left: 210px;}
+#tile_10 {position: absolute; top: 420px; left: 380px;}
+#tile_11 {position: absolute; top: 420px; left: 550px;}
+#tile_12 {position: absolute; top: 590px; left: 40px;}
+#tile_13 {position: absolute; top: 590px; left: 210px;}
+#tile_14 {position: absolute; top: 590px; left: 380px;}
+#tile_15 {position: absolute; top: 590px; left: 550px;}
